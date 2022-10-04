@@ -1,7 +1,7 @@
 1. The sample dataset contains brake inspection recordings of heavy duty vehicles, including the vehicle properties and the brake states recorded in inspection.
 Heavy duty vehicle brake data_sample.xlsx
 
-2. The sample dataset contains the text notations in vehicle inspection recordings and the vehicle clustering results based on the vehicle failure modes.
+2. The sample dataset contains the text annotations in vehicle inspection recordings and the vehicle clustering results based on the vehicle failure modes.
 NLP with topic_sample.xlsx
 
 3. The distribution of clusters in each vehicle make. There are two result files using Compuspection data and the result using MCMIS data, respectively.
